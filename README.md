@@ -1,2 +1,3 @@
 # web-home
-Temporary web home
+
+Code for borac.dev homepage
